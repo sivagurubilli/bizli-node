@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "alladin-ice-app",
+  "private_key_id": "ab26a83de77c914c5d001f60cd8291c2b84aca4c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCoUrOjX2OH58Vk\nyODc0BM10AZn2NN/gAy+GVcdsMBMnquqLymYnnmmDSzxGOl5KaLMmpT1DAuranPZ\ny7AFCfhqCVcury/P63BWcDEXJjMLxEIiN99af2FtBzC8/7QqCape6RPDtwYWH3cc\nq3MaLejn9iU5xN/UfRanRvEjoyk3ngQT8l4z8d4fk4fb7+DLhRberNGCW78Wp6uu\n17mlQNgNBkFyEbdm7vEPn+bLIpem+4+WCtMsdVPzMyU4nrP+M8q9wYiNyyLCIdWC\nwbhan1q2S+Qon0hU6quEziWOT62Nsx8cEVkAW+ZEZ+JVcgtap0hlmENuJYXqKy5t\nyM0UAn2pAgMBAAECggEAAVrjFShbgoNS4zq7wVilIvHZBK/UlLTuRVR/ufPg5G0C\n6ESSGDyvBtoZzRoR0mwg96Ex8Z67yaY6fFvHqmQNaCXJmiJbvJfXsxZwSrr/vl3s\nLgmBm+FPzTh5g7f867lhXKYR3D7mXA9mSSiMgr7bs7cB+eBUG0o41ba8PQ4fSDzo\neQFIcGWHZgr59UE6zUxMKUTKaE8URL2rJhjXrDqzfMfjNY7aCcgU/V2pan9Q7aTf\nycMrHDC0Fk68hlgjlg0oL5LwfsJ2MXblqBA3spUPKlh6j8GU0pneJSEt5wfg5cJK\npfC/6hqIM3sPhc99Ihd+oWsQQPf0H1NHg+pZY1LghQKBgQDj3Tg2E9AyttyN01Fm\n6FqvARFrxkm4bUgapOxLOvRsAd9FtnxdyntLaN1oCUa1HL3U7miHxgHSOIBNr4qp\no6m5+RHwpG2m+z1vDoBK0ztUrrC4wccy/LnhobS/cQ2Wa6W1k8SvnGKVZ7FnVhf7\nJlPSusAp0TPp4/DtdDk9zNErHQKBgQC9G2PFsro2ZJxJ3QTVGPAJNqFBiV7GvSL3\nVYoC8SxVAPuPWbLnCCe9DHapiss4kQyh4dempuAQYcjhSCO5EN5MvnqWuSVhnDqX\nZpvgtOsUrFplUDYju2isSg2yhGUu4hJj9gLlY0Wh474zuyF69OaelyN4VsSFCuzl\ndGPc6X7K/QKBgFOoO2P3QD/uTOkxBTjP48NOlBPKd/RjAs7tb+dq3KPuyAczKVPR\n7BRSir8QcMo7pCJR6US32KFSpyBea30+niiuHf0IkU11/icQ3t8Z0DWV8UHTuwuo\nJ6KEGPUUT5XDLdKNTu/ebX9G06YJwMIvXyUF9Vkk+ndLfX/gZMegs8atAoGAHpSd\nT80VO9KNS4yISYWc24CQFy8FupG/Y8vbY5polt5vz8Cro5y4AGRRlB0zu9QI/Oyu\nmO6HcV6+w1+NF1JZAIQVAuax2tUOzIj1UCMxmMg+Xf/YoXKe/K2FBYdPbYN1geC4\nmyuwiPtxOKBcS6vq116Nh9pQMUuQ/5IQzBqePGkCgYAUpPj9R7uluEvIcVJkJP4A\nq/biKfo45nMcvdmyqZW0FSvmI4oM8xorDY4zUjUoCO4IswbGivf6TT674dgrmX68\np3NYY/96q0pE/h7a4jlqJHsTBIsH7bY3gpj+ziBFJdpAvKs3B5thWlF6C1/cmiz8\ns4fC9p1Fj1HiZVKfqzR27w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-api@alladin-ice-app.iam.gserviceaccount.com",
+  "client_id": "107296056064059362457",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-api%40alladin-ice-app.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
